@@ -24,7 +24,7 @@ A [Codex](https://github.com/openai/codex) Skill that drives OriginLab Origin th
 
 ```bash
 # 克隆到 Codex skills 目录
-git clone https://github.com/YOUR_USERNAME/codex-origin-plot.git \
+git clone https://github.com/guoleizhen717/codex-origin-plot.git \
           ~/.codex/skills/codex-origin-plot
 
 # 安装 Python 依赖
