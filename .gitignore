@@ -1,0 +1,5 @@
+﻿*.opju
+*.opju.oggu
+*.png
+__pycache__/
+*.pyc
